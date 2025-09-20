@@ -6,6 +6,6 @@
 
   ```json
   {
-    "aide.openaiBaseUrl": "https://api.openai.com/v1"
+    "aide.openaiBaseUrl": "https://api.deepseek.com/v1"
   }
   ```
